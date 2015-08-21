@@ -1,0 +1,4 @@
+1   GGA     0
+2   WDCGG   0
+3   GOSAT   1
+4   TCCON   0
